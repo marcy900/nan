@@ -19,7 +19,7 @@
        <nav>
        </nav>
      <section class="textos-header">
-       <h1>FELIZ CUMPLEAÑOS PANA </h1>
+       <h1> &#127873; &#127880; FELIZ CUMPLEAÑOS PANA &#127880; &#127873;  </h1>
        <h2>Que en tu vida la felicidad sea constante y nunca te falten la salud y el amor. </h2>
      </section>
        <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C267.77,202.78 344.52,-45.88 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #fff;"></path></svg></div>
@@ -29,8 +29,8 @@
      <section class="contenedor sobre-nosotros">
 
        <div class="col-auto p-5 text-center">
-        <h1 class="titulo">Hoy cumples un año más en tu vida </h1><br>
-          <img src="img/01.jpg" alt="" class="imagen-about us" width="500" height="640">
+        <h1 class="titulo">Hoy cumples un año más en tu vida &#128198; </h1><br>
+          <img src="img/01.jpg" alt="" class="imagen-about us" width="300" height="700">
           
        </div>
     
@@ -38,9 +38,11 @@
            
             <div class="contenido-textos">
                 <h3>
-                  Pana...!!!!<3 
+                  Pana...!!!! &#128512;
+
                 </h3>
-                <P>Estas son las mañanitas<br>
+                <P>
+                  Estas son las mañanitas<br>
 Que cantaba el rey David<br>
 Hoy por ser día de tu santo<br>
 Te las cantamos aquí <br><br>
@@ -51,25 +53,18 @@ La luna ya se metió. <br>
 Fin
 <br>
 <br>
-<hr>
 Muchas felicidades Pana, hoy por ser el día de tu cumpleaños, espero que te la pases de lo mejor hoy y siempre  <br>
-Que se cumplan todos tus sueños y metas que te has planteado. Échale muchas ganas a la escuela que siempre salgas bien en todo y si no es el caso, no te deprimas, es parte del aprendizaje, por que para sabernos levantar primero debemos de caer. 
-Que siempre tengas salud, paz y amor. <br><br>
+Que se cumplan todos tus sueños y metas que te has planteado.&#128185; Échale muchas ganas a la escuela que siempre salgas bien en todo y si no es el caso, no te deprimas, es parte del aprendizaje, por que para sabernos levantar primero debemos de caer. 
+Que siempre tengas salud, paz y amor. &#129346; <br><br>
 Te mando un fuerte abrazo desde aqui hasta allá donde tus andas. <br>
+Te Quiero Mucho :) ...! &#128144;
 
-<hr>
-Te Quiero Mucho :) ...!
-<div class="col-auto p-5 text-center">
-          <img src="img/21.jpg" alt="" class="imagen-about us" width="800" height="400">
-          
-</div>           
-                  
-                  
-                  <br><br><br>
-      
-      
-            
-               
+<?php 
+                     echo  "&#128147;";
+                   ?>
+
+</P>
+
             </div>
           </div>
      </section>
@@ -88,7 +83,7 @@ Te Quiero Mucho :) ...!
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    @Ing. Marcial Miguel Rojas
+    @Ing. *******
   </div>
   <!-- Copyright -->
 </footer>
